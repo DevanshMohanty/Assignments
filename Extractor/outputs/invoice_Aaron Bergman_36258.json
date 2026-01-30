@@ -1,0 +1,19 @@
+{
+  "document_type": "invoice",
+  "header": {
+    "company_name": "SuperStore",
+    "company_address": null,
+    "invoice_number": "36258",
+    "po_number": null,
+    "invoice_date": "Mar 06 2012",
+    "total_amount": 50.1
+  },
+  "line_items": [
+    {
+      "description": null,
+      "quantity": 1,
+      "unit_price": null,
+      "amount": 48.71
+    }
+  ]
+}

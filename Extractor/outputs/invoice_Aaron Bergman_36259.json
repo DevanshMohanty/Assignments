@@ -1,0 +1,19 @@
+{
+  "document_type": "invoice",
+  "header": {
+    "company_name": null,
+    "company_address": null,
+    "invoice_number": "36259",
+    "po_number": null,
+    "invoice_date": "Mar 06 2012",
+    "total_amount": "$58.11"
+  },
+  "line_items": [
+    {
+      "description": null,
+      "quantity": 330,
+      "unit_price": null,
+      "amount": "$53.82"
+    }
+  ]
+}

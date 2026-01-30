@@ -1,0 +1,67 @@
+{
+  "document_type": "invoice",
+  "header": {
+    "company_name": "Richard Myers Associates",
+    "company_address": "PO Box 404, Durham, DH1 2ZR",
+    "invoice_number": "1001176",
+    "po_number": null,
+    "invoice_date": "2nd May 2007",
+    "total_amount": "£6200.00"
+  },
+  "line_items": [
+    {
+      "description": "Branding 2 days",
+      "quantity": null,
+      "unit_price": null,
+      "amount": "£800"
+    },
+    {
+      "description": "Business Stationery 2 days",
+      "quantity": null,
+      "unit_price": null,
+      "amount": "£800"
+    },
+    {
+      "description": "Brochure 2 days",
+      "quantity": null,
+      "unit_price": null,
+      "amount": "£800"
+    },
+    {
+      "description": "Website (front end) 4 days",
+      "quantity": null,
+      "unit_price": null,
+      "amount": "£1600"
+    },
+    {
+      "description": "Website (CMS) 3 days",
+      "quantity": null,
+      "unit_price": null,
+      "amount": "£1200"
+    },
+    {
+      "description": "Emailing system 1 days",
+      "quantity": null,
+      "unit_price": null,
+      "amount": "£400"
+    },
+    {
+      "description": "Photography (optional) ½ day",
+      "quantity": null,
+      "unit_price": null,
+      "amount": "£200"
+    },
+    {
+      "description": "Search engine registration 1 day",
+      "quantity": null,
+      "unit_price": null,
+      "amount": "£400"
+    },
+    {
+      "description": "Training ½ day",
+      "quantity": null,
+      "unit_price": null,
+      "amount": "FREE"
+    }
+  ]
+}

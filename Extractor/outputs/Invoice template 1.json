@@ -1,0 +1,25 @@
+{
+  "document_type": "invoice",
+  "header": {
+    "company_name": "Intel Electronics, Ltd.",
+    "company_address": "Qiryat Gat Industrial Park, P.O. Box 70, Quiy at Gat, Israel 82109",
+    "invoice_number": "123456",
+    "po_number": "JRB038793000",
+    "invoice_date": "May 15, 2000",
+    "total_amount": "8623.75 NIS"
+  },
+  "line_items": [
+    {
+      "description": "Labor- Paint the risers and stringers on all five stairways with epoxy paint to match color",
+      "quantity": "001",
+      "unit_price": "7000.00 NIS",
+      "amount": "7000.00 NIS"
+    },
+    {
+      "description": "Material - Paint",
+      "quantity": null,
+      "unit_price": "1500.00 NIS",
+      "amount": "1500.00 NIS"
+    }
+  ]
+}

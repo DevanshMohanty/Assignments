@@ -1,0 +1,12 @@
+{
+  "document_type": "invoice",
+  "header": {
+    "company_name": null,
+    "company_address": null,
+    "invoice_number": null,
+    "po_number": null,
+    "invoice_date": "Jun 5, 2023",
+    "total_amount": "$0.00"
+  },
+  "line_items": []
+}
